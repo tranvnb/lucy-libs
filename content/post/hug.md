@@ -3,7 +3,7 @@ date = "2011-03-18"
 title = "Hug"
 +++
 
-"Ha! Is that a gun in your pocket, or are you just happy to see me?"
+"Haaaaaa! Is that a gun in your pocket, or are you just happy to see me?"
 <br><br>
 "It is a gun. But I am also happy to see you."
 <br><br>
